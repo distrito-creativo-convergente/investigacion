@@ -1,7 +1,5 @@
 # Resumen del proyecto
 
-## Introducción
-
 La creación de un Distrito Creativo Convergente en Arte, Ciencia y Tecnología (DCC-ACT) tiene un potencial importante para impulsar la producción de contenidos culturales, fomentar nuevas formas de interacción ciudadana y abrir caminos alternativos de desarrollo económico; fortaleciendo y amplificando los procesos de innovación social, cultural y económica en Bogotá.
 
 ## Misión
