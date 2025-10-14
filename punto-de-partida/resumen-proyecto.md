@@ -20,6 +20,6 @@ Con base en los resultados de este proceso, se trabajará de manera articulada c
 
 Consolidar la base organizativa, conceptual, comunicativa, técnica y tecnológica del Distrito Creativo Convergente en Arte, Ciencia y Tecnología (DCC-ACT)
 
-Obj1. Fortalecer la cohesión del Grupo Gestor del DCC-ACT
-Obj2. Fundamentar el reconocimiento oficial del DCC-ACT
-Obj3. Visibilizar las posibilidades creativas del DCC-ACT
+Obj1. Fortalecer la cohesión del Grupo Gestor del DCC-ACT.\
+Obj2. Fundamentar el reconocimiento oficial del DCC-ACT.\
+Obj3. Visibilizar las posibilidades creativas del DCC-ACT.
