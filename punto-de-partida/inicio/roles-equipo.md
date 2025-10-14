@@ -16,7 +16,7 @@
 ## 3. Equipo de desarrollo
 
 * Rol3.1. Líder de desarrollo -> Daniel -> Plataforma y repositorios
-* Rol3.2. Diseño UX/UI -> Sur? -> Interfaz de usuario
+* Rol3.2. Diseño UX/UI -> ? -> Interfaz de usuario
 * Rol3.3. Desarrollador fullstack -> Diego M? -> Apoyo al líder de desarrollo
 
 ## 4. Equipo de comunicación
