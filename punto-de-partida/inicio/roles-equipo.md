@@ -22,15 +22,15 @@
 
 * Rol4.1. Responsable comunicación -> Nathalie -> Estrategia de comunicación
 * Rol4.2. Diseñador gráfico -> Carlos -> Identidad visual
-* Rol4.3. Community manager -> Sur? -> comunicación en redes
+* Rol4.3. Community manager -> Yimmy -> comunicación en redes
 
 ## 5. Equipo de evento
 
 * Rol5.1. Productor general -> Diego V -> Evento de lanzamiento
-* Rol5.2. Productor logístico -> ? -> Apoyo evento de lanzamiento
-* Rol5.3. Asistente de producción -> ? -> Apoyo evento de lanzamiento
+* Rol5.2. Productor logístico -> Franklin? -> Apoyo evento de lanzamiento
+* Rol5.3. Asistente de producción -> Percepptorium? -> Apoyo evento de lanzamiento
 * Rol5.4. Curaduría de contenidos -> Tito? -> Programación _Nē Tā_
-Rol5.5. Realización audiovisual -> 402 -> Memoria audiovisual del evento
+* Rol5.5. Realización audiovisual -> 402 -> Memoria audiovisual del evento
 
 ## 6. Equipo de facilitadores
 
