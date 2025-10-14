@@ -48,7 +48,7 @@ Fun1.3. Proyección sectorial
 
 Fun2.1. Hoja de ruta territorializada\
 Fun2.2. Dossier del DCC-ACT\
-Fun2.3 Documentación del proceso
+Fun2.3 Documentación de conocimientos
 
 #### 3. Desarrollo
 
