@@ -3,7 +3,7 @@
 ## 1. Equipo de gobernanza
 
 * Rol1.1. Coordinación de gobernanza -> Diana -> Modelo de gobernanza —con perspectiva de diversidad cultural y género— y proyección sectorial
-* Rol1.2. Apoyo de gobernanza -> Manyulo -> Apoyo perspectiva de diversidad cultural\
+* Rol1.2. Apoyo de gobernanza -> Manyulo -> Apoyo perspectiva de diversidad cultural
 * Rol1.3. Apoyo de gobernanza -> Mae -> Apoyo proyección sectorial
 
 ## 2. Equipo de investigación
@@ -31,7 +31,7 @@
 * Rol5.2. Productor logístico -> Franklin? -> Apoyo evento de lanzamiento
 * Rol5.3. Asistente de producción -> Percepptorium? -> Apoyo evento de lanzamiento
 * Rol5.4. Curaduría de contenidos -> Tito? -> Programación _Nē Tā_
-* Rol5.5. Realización audiovisual -> 402 -> Memoria audiovisual del evento
+* Rol5.5. Realización audiovisual -> Cristian -> Memoria audiovisual del evento
 
 ## 6. Equipo de facilitadores
 
