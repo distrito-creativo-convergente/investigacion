@@ -30,7 +30,7 @@
 * Rol5.1. Productor general -> Diego V -> Evento de lanzamiento
 * Rol5.2. Productor logístico -> Franklin? -> Apoyo evento de lanzamiento
 * Rol5.3. Asistente de producción -> Percepptorium? -> Apoyo evento de lanzamiento
-* Rol5.4. Curaduría de contenidos -> Tito? -> Programación _Nē Tā_
+* Rol5.4. Curaduría de contenidos Diego F? -> Programación _Nē Tā_
 * Rol5.5. Realización audiovisual -> Cristian -> Memoria audiovisual del evento
 
 ## 6. Equipo de facilitadores
