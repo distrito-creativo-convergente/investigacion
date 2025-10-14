@@ -10,13 +10,14 @@
 
 * Rol2.1. Coordinación de investigación -> Juan-Pablo -> Hoja de ruta territorializada y dossier
 * Rol2.2. Apoyo investigación -> externo? -> Apoyo territorialización con perspectiva ambiental (POT -> ESECI, EEP y EIP)
-* Rol2.3. Apoyo investigación -> Diego H? -> documentación e integración de los perfiles culturales, creativos y de innovación de los participantes del DCC-ACT
+* Rol2.3. Desarrollo interactivo -> Sebastian -> Apoyo dossier interactivo
+* Rol2.4. Apoyo investigación -> Diego H? -> documentación e integración de los perfiles culturales, creativos y de innovación de los participantes del DCC-ACT
 
 ## 3. Equipo de desarrollo
 
 * Rol3.1. Líder de desarrollo -> Daniel -> Plataforma y repositorios
-* Rol3.2. Diseño UX/UI -> Camila? -> Interfaz de usuario
-* Rol3.3. Desarrollador fullstack -> externo? -> Apoyo al líder de desarrollo
+* Rol3.2. Diseño UX/UI -> Sur? -> Interfaz de usuario
+* Rol3.3. Desarrollador fullstack -> Diego M? -> Apoyo al líder de desarrollo
 
 ## 4. Equipo de comunicación
 
