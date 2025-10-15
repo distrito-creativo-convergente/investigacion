@@ -23,7 +23,7 @@ El DCC-ACT se activa en la ciudad por medio de un evento de lanzamiento que se r
 * Fun1.3. Dossier del DCC-ACT
 * Fun1.4. Documentación de perfiles DCC-ACT
 
-### 2. Gobernanza:
+### 2. Gobernanza
 
 * Fun2.1. Modelo de gobernanza
 * Fun2.2. Perspectiva de diversidad cultural
