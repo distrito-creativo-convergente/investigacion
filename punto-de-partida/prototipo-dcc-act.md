@@ -40,32 +40,32 @@ Se busca con esta infraestructura promover la transparencia y la ética colabora
 
 ### 1. Gobernanza:
 
-Fun1.1. Modelo de gobernanza\
-Fun1.2. Perspectiva de diversidad cultural\
-Fun1.3. Proyección sectorial
+* Fun1.1. Modelo de gobernanza
+* Fun1.2. Perspectiva de diversidad cultural
+* Fun1.3. Proyección sectorial
 
 #### 2. Investigación
 
-Fun2.1. Hoja de ruta\
-Fun2.2. _Nē Tā_ de conocimiento situado\
-Fun2.3. Dossier del DCC-ACT\
-Fun2.4. Documentación de perfiles DCC-ACT
+* Fun2.1. Hoja de ruta
+* Fun2.2. _Nē Tā_ de conocimiento situado
+* Fun2.3. Dossier del DCC-ACT
+* Fun2.4. Documentación de perfiles DCC-ACT
 
 #### 3. Desarrollo
 
-Fun3.1. Plataforma digital\
-Fun3.2. Repositorios abiertos
+* Fun3.1. Plataforma digital
+* Fun3.2. Repositorios abiertos
 
 #### 4. Comunicación
 
-Fun4.1. Estrategia de comunicación\
-Fun4.2. Identidad visual\
-Fun4.3. Comunicación en redes
+* Fun4.1. Estrategia de comunicación
+* Fun4.2. Identidad visual
+* Fun4.3. Comunicación en redes
 
 #### 5. Evento
 
-Fun5.1. Evento de lanzamiento\
-Fun5.2. Memoria audiovisual
+* Fun5.1. Evento de lanzamiento
+* Fun5.2. Memoria audiovisual
 
 ## Esquema iterativo
 ![Esquema-iterativo](Esquema-iterativo.png "Esquema-iterativo")
