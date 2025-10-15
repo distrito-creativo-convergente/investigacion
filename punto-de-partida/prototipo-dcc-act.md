@@ -97,4 +97,4 @@ Fun5.2. Memoria audiovisual
 * R0.2. Roles del equipo.  -> Responsable: Coordinadores.
 * R0.3. Taller de Scrum, Git y GitHub. -> Responsable: Investigación y Desarrollo.
 * R0.4. Guía de contribución. -> Responsable: Desarrollo, Investigación y Comunicación.
-* R0.5. Seguimiento en ClickUp del Backlog inicial.  -> Responsable: Coordinadores.
+* R0.5. Seguimiento en GitHub Proyects del Backlog inicial.  -> Responsable: Coordinadores.
