@@ -94,6 +94,6 @@ Se busca con esta infraestructura promover la transparencia y la ética colabora
 **Resultados:**
 * [R0.1.](inicio/esquema-repositorios.md) Organización y repositorios en GitHub.  -> Responsable: Desarrollo e Investigación.
 * [R0.2.](inicio/roles-equipo.md) Roles del equipo.  -> Responsable: Coordinadores.
-* [R0.3.](inicio/guia-contribucion.md) Guía de contribución Scrum, Discord y GitHub. -> Responsable: Investigación y Desarrollo y Comunicación.
+* [R0.3.](inicio/guia-contribucion.md) Guía Scrum, Discord y GitHub. -> Responsable: Investigación, Desarrollo y Comunicación.
 * [R0.4.](inicio/hoja-de-ruta.md) Hoja de ruta (v0.1). -> Responsable: Investigación.
 * [R0.5.](inicio/documentacion-requisitos.md) Seguimiento en GitHub Projects del Backlog inicial.  -> Responsable: Coordinadores.
