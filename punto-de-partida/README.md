@@ -91,8 +91,6 @@ No hay problema. En la [Guía de Contribución](inicio/guia-contribucion.md) enc
 
 ## 💡 Una reflexión final
 
-> *"No es necesario empezar con una infraestructura enorme para lograr un gran impacto."* — Del acta de concertación
-
 Este prototipado es un ejercicio de práctica-teoría-práctica donde aprenderemos haciendo, donde la investigación, la creación y la acción convergen en un proceso vivo. Cada uno de ustedes aporta una experiencia única que fortalece al colectivo.
 
 El DCC-ACT no es solo un proyecto: es **un territorio híbrido de inteligencia colectiva** que estamos construyendo juntos, paso a paso, sprint a sprint.
