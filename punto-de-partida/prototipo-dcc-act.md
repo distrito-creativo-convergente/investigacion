@@ -14,6 +14,10 @@ Desde esta conceptualización, El DCC-ACT se configura por medio de un proceso c
 
 El DCC-ACT se activa en la ciudad por medio de un evento de lanzamiento que se realiza en tres espacios abiertos a comunidades locales y otros agentes del sector. Este es un evento híbrido (análogo-digital) que tiene como propósito «visibilizar las posibilidades creativas del DCC-ACT» (Obj3).
 
+## Punto de partida
+
+![Punto de partida](Punto-de-partida.png)
+
 ## Marco de trabajo
 
 El DCC-ACT busca articular conocimientos y prácticas diversas en procesos colaborativos de investigación-creación-acción. Esto implica poder trabajar colectivamente en proyectos abiertos, iterativos y en constante transformación, donde la comunicación, la trazabilidad y la adaptación son esenciales.

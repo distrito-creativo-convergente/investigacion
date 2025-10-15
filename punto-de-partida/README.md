@@ -58,10 +58,6 @@ El corazón del proceso. Este documento presenta:
 
 ---
 
-## 🏁 Punto de partida
-
-![Punto de partida](Punto-de-partida.png)
-
 ## 🚀 Documentos de Inicio (10 oct - 20 oct)
 
 La carpeta [inicio/](inicio/) contiene los entregables de la primera fase:
