@@ -4,7 +4,7 @@
 
 El DCC-ACT se conceptualiza como un territorio híbrido de inteligencia colectiva que es un bien común de la ciudad. El DCC-ACT se guía por los principios abiertos, distribuidos y convivenciales que favorecen el acceso e integración de todas las personas que desde una perspectiva cultural se interesan en articularse de manera creativa con la exploración del campo de la convergencia en arte, ciencia y tecnología.
 
-### Investigación gobernanza y comunicación
+### Investigación, gobernanza y comunicación
 
 La conceptualización de lo que significa un Distrito Creativo Convergente en Arte, Ciencia y Tecnología en el marco de la ciudad actual nos permite a mediano plazo «fundamentar el reconocimiento oficial del DCC-ACT» (Obj2).
 
