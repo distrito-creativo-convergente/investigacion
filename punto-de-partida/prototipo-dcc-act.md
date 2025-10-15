@@ -6,9 +6,9 @@ El DCC-ACT se conceptualiza como un territorio híbrido de inteligencia colectiv
 
 ### Gobernanza, investigación y comunicación
 
-El DCC-ACT se configura por medio de un proceso colaborativo de gobernanza, formación y comunicación que tiene como fin «fortalecer la cohesión del Grupo Gestor del DCC-ACT» (Obj1).
+La conceptualización de elo que significa un Distrito Creativo Convergente nos permite a mediano plazo «fundamentar el reconocimiento oficial del DCC-ACT» (Obj2).
 
-Por su parte, el seguimiento y conceptualización de este proceso nos permite a mediano plazo «fundamentar el reconocimiento oficial del DCC-ACT» (Obj2).
+Desde esta conceptualización, El DCC-ACT se configura por medio de un proceso colaborativo de gobernanza, formación y comunicación que tiene como fin «fortalecer la cohesión del Grupo Gestor del DCC-ACT» (Obj1).
 
 ### Desarrollo y producción
 
