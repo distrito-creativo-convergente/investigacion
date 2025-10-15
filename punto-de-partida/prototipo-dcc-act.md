@@ -12,7 +12,7 @@ Desde esta conceptualización, El DCC-ACT se configura por medio de un proceso c
 
 ### Desarrollo y producción
 
-El DCC-ACT se activa en la ciudad por medio de un evento de lanzamiento que se realiza en tres espacios abiertos a comunidades locales y otros agentes del sector. Este evento es híbrido (análogo-digital) que tiene como propósito «visibilizar las posibilidades creativas del DCC-ACT» (Obj3).
+El DCC-ACT se activa en la ciudad por medio de un evento de lanzamiento que se realiza en tres espacios abiertos a comunidades locales y otros agentes del sector. Este es un evento híbrido (análogo-digital) que tiene como propósito «visibilizar las posibilidades creativas del DCC-ACT» (Obj3).
 
 ## Marco de trabajo
 
