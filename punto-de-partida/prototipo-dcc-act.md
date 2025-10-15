@@ -78,8 +78,7 @@ Fun5.2. Memoria audiovisual
 - **Sprint  2**  -> 04 nov - 14 nov
 - **Sprint  3**  -> 18 nov - 28 nov
 
-- **Evento**  ->  01 dic - 05 dic
-- **Cierre**  ->  09 dic - 12 dic
+- **Cierre**  ->  01 dic - 12 dic
 
 ### Inicio
 
@@ -88,13 +87,13 @@ Fun5.2. Memoria audiovisual
 **Alcance:**
 * A0.1. Creación de la organización y los repositorios en GitHub.
 * A0.2. Definición de roles del equipo.
-* A0.3. Capacitación en Scrum, Git y GitHub.
-* A0.4. Creación de la guía de contribución.
+* A0.3. Creación de la guía Scrum, Discord y GitHub.
+* A0.4. Preparación de la Hoja de Ruta (v0.1).
 * A0.5. Definición del Backlog inicial.
 
 **Resultados:**
-* R0.1. Organización y repositorios en GitHub.  -> Responsable: Desarrollo.
-* R0.2. Roles del equipo.  -> Responsable: Coordinadores.
-* R0.3. Taller de Scrum, Git y GitHub. -> Responsable: Investigación y Desarrollo.
-* R0.4. Guía de contribución. -> Responsable: Desarrollo, Investigación y Comunicación.
-* R0.5. Seguimiento en GitHub Projects del Backlog inicial.  -> Responsable: Coordinadores.
+* [R0.1.](inicio/esquema-repositorios.md) Organización y repositorios en GitHub.  -> Responsable: Desarrollo e Investigación.
+* [R0.2.](inicio/roles-equipo.md) Roles del equipo.  -> Responsable: Coordinadores.
+* [R0.3.](inicio/guia-contribucion.md) Guía de contribución Scrum, Discord y GitHub. -> Responsable: Investigación y Desarrollo y Comunicación.
+* [R0.4.](inicio/hoja-de-ruta.md) Hoja de ruta (v0.1). -> Responsable: Investigación.
+* [R0.5.](inicio/documentacion-requisitos.md) Seguimiento en GitHub Projects del Backlog inicial.  -> Responsable: Coordinadores.
