@@ -10,9 +10,9 @@ El DCC-ACT se configura por medio de un proceso colaborativo de gobernanza, form
 
 Por su parte, el seguimiento y conceptualización de este proceso nos permite a mediano plazo «fundamentar el reconocimiento oficial del DCC-ACT» (Obj2).
 
-### Desarrollo y producción de eventos _Nē Tā_
+### Desarrollo y producción
 
-El DCC-ACT se activa en la ciudad por medio de un evento de lanzamiento que se realiza en tres espacios _Nē Tā_ abiertos a comunidades locales y otros agentes del sector. Estas _Nē Tā_ son híbridas (análogo-digitales) que tienen como propósito «visibilizar las posibilidades creativas del DCC-ACT» (Obj3).
+El DCC-ACT se activa en la ciudad por medio de un evento de lanzamiento que se realiza en tres espacios abiertos a comunidades locales y otros agentes del sector. Este evento es híbrido (análogo-digital) que tiene como propósito «visibilizar las posibilidades creativas del DCC-ACT» (Obj3).
 
 ## Marco de trabajo
 
@@ -46,9 +46,10 @@ Fun1.3. Proyección sectorial
 
 #### 2. Investigación
 
-Fun2.1. Hoja de ruta territorializada\
-Fun2.2. Dossier del DCC-ACT\
-Fun2.3 Documentación de conocimientos
+Fun2.1. Hoja de ruta\
+Fun2.2. _Nē Tā_ de conocimiento situado\
+Fun2.3. Dossier del DCC-ACT\
+Fun2.4. Documentación de perfiles DCC-ACT
 
 #### 3. Desarrollo
 
