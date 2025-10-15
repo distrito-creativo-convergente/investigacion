@@ -22,7 +22,7 @@ El DCC-ACT se fundamenta en principios que emergen de nuestra propia práctica c
 Reconocemos la importancia de confiar en el conocimiento y experiencia de los demás, evitando el individualismo y promoviendo la inteligencia colectiva.
 
 ### Transparencia y Trazabilidad
-Usando Git y GitHub, cada contribución es visible, trazable y puede ser discutida públicamente, promoviendo la ética colaborativa.
+Usando Discord y GitHub, cada contribución es visible, trazable y puede ser discutida públicamente, promoviendo la ética colaborativa.
 
 ### Iteración y Adaptación
 A través de Scrum trabajamos en ciclos cortos (sprints) centrados en objetivos alcanzables y revisables, permitiendo el aprendizaje continuo.
@@ -51,7 +51,7 @@ Un documento fundamental que recoge los consensos alcanzados en el proceso de co
 ### 3. [Prototipo del DCC-ACT](prototipo-dcc-act.md)
 El corazón del proceso. Este documento presenta:
 - **El concepto de partida:** Un territorio híbrido de inteligencia colectiva guiado por principios abiertos, distribuidos y convivenciales
-- **Marco de trabajo:** Scrum, Git y GitHub como herramientas para diseñar la convergencia desde la convergencia de conocimientos
+- **Marco de trabajo:** Scrum, Discord y GitHub como herramientas para diseñar la convergencia desde la convergencia de conocimientos
 - **Funcionalidades generales:** Gobernanza, Investigación, Desarrollo, Comunicación y Evento
 - **Esquema iterativo:** Los ciclos de trabajo (Inicio, 3 Sprints, Cierre)
 - **Cronograma:** Del 10 de octubre al 12 de diciembre
