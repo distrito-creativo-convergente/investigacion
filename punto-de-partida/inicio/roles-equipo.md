@@ -9,9 +9,9 @@
 ## 2. Equipo de investigación
 
 * Rol2.1. Coordinación de investigación -> Juan-Pablo -> Hoja de ruta territorializada y dossier
-* Rol2.2. Apoyo investigación -> externo? -> Apoyo territorialización con perspectiva ambiental (POT -> ESECI, EEP y EIP)
-* Rol2.3. Desarrollo interactivo -> Santiago -> Apoyo diseño interactivo
-* Rol2.4. Apoyo investigación -> Diego H? -> documentación e integración de los perfiles culturales, creativos y de innovación de los participantes del DCC-ACT
+* Rol2.2.1 Apoyo investigación -> externo -> Apoyo _Nē Tā_ con perspectiva ambiental (POT -> ESECI, EEP y EIP)
+* Rol2.2.2 Desarrollo interactivo -> Santiago -> Apoyo Dossier interactivo
+* Rol2.3. Apoyo investigación -> Diego H? -> documentación e integración de los perfiles culturales, creativos y de innovación de los participantes del DCC-ACT
 
 ## 3. Equipo de desarrollo
 
