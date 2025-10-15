@@ -18,7 +18,7 @@ El DCC-ACT se activa en la ciudad por medio de un evento de lanzamiento que se r
 
 El DCC-ACT busca articular conocimientos y prácticas diversas en procesos colaborativos de investigación-creación-acción. Esto implica poder trabajar colectivamente en proyectos abiertos, iterativos y en constante transformación, donde la comunicación, la trazabilidad y la adaptación son esenciales.
 
-Por esta razón, para el prototipado del DCC_ACT utilizaremos Scrum, Discord y GitHub como herramientas que nos permiten diseñar la convergencia desde la propia convergencia de conocimientos.
+Por esta razón, para el prototipado del DCC-ACT utilizaremos Scrum, Discord y GitHub como herramientas que nos permiten diseñar la convergencia desde la propia convergencia de conocimientos.
 
 Se busca con esta infraestructura promover la transparencia y la ética colaborativa, en la cual cada contribución es visible, trazable y puede ser discutida públicamente.
 
