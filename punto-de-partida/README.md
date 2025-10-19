@@ -40,6 +40,8 @@ El DCC-ACT se prototipa promoviendo la transparencia y la ética colaborativa, e
 - **Esquema iterativo:** Los ciclos de trabajo (Inicio, 3 Sprints, Cierre)
 - **Cronograma:** Del 27 de octubre al 05 de diciembre
 
+-> Revisa el documento de [Prototipo del DCC-ACT](prototipo-dcc-act.md) para comenzar.
+
 ---
 
 ### Documentos base
