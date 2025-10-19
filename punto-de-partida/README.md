@@ -1,4 +1,4 @@
-# Punto de Partida para la primera fase del Prototipado del DCC-ACT
+# Punto de partida para la primera fase del prototipado del DCC-ACT
 
 ## Una invitación al Grupo Gestor
 

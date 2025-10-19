@@ -1,4 +1,4 @@
-# Prototipo del DCC-ACT
+# Primera fase del prototipo del DCC-ACT
 
 ## Concepto de partida
 
