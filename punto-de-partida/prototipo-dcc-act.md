@@ -60,7 +60,7 @@ Se busca con esta infraestructura promover la transparencia y la ética colabora
 ## Esquema iterativo
 ![Esquema-iterativo](Esquema-iterativo.png "Esquema-iterativo")
 
-## Ciclos
+## Ciclos primera fase
 
 - **Inicio** - > 27 oct
 
