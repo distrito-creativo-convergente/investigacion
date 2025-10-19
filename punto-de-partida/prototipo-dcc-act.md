@@ -62,9 +62,9 @@ Se busca con esta infraestructura promover la transparencia y la ética colabora
 
 ## Ciclos
 
-- **Inicio** - > 28 oct
+- **Inicio** - > 27 oct
 
-- **Sprint  1** -> 29 oct - 10 nov
+- **Sprint  1** -> 28 oct - 10 nov
 - **Sprint  2**  -> 11 nov - 24 nov
 - **Sprint  3**  -> 25 nov - 04 dic
 
