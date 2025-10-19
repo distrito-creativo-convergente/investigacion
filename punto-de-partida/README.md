@@ -42,17 +42,15 @@ El DCC-ACT se prototipa promoviendo la transparencia y la ética colaborativa, e
 
 -> Revisa el documento de punto de partida del [Prototipo del DCC-ACT](prototipo-dcc-act.md) para comenzar.
 
----
-
 ### Documentos base
 
-### 1. [Resumen del Acta de Concertación](resumen-acta.md)
+#### 1. [Resumen del Acta de Concertación](resumen-acta.md)
 Un documento fundamental que recoge los consensos alcanzados en el proceso de concertación. Aquí están plasmadas las voces del sector sobre:
 - ¿Qué nos une como sector?
 - ¿Cómo podemos aportar al fortalecimiento del sector desde lo colectivo?
 - Los pilares de nuestra articulación creativa
 
-### 2. [Resumen del Proyecto](resumen-proyecto.md)
+#### 2. [Resumen del Proyecto](resumen-proyecto.md)
 Aquí encontrarás la **misión, visión y objetivos** del DCC-ACT. Este documento establece nuestra aspiración de ser parte de la Red de Distritos Creativos de Bogotá para el 2030 y describe cómo trabajaremos articuladamente con la Secretaría de Cultura, Recreación y Deporte.
 
 **Objetivos principales:**
