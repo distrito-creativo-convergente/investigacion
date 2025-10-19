@@ -4,7 +4,9 @@
 
 Estimado Grupo Gestor del **Distrito Creativo Convergente en Arte, Ciencia y Tecnología (DCC-ACT)**,
 
-Este espacio reúne la base conceptual, organizativa y metodológica que nos permite iniciar el prototipado del DCC-ACT. Aquí encontrarán las recomendaciones, rutas y documentos que servirán como punto de partida para consolidar un ecosistema colaborativo e innovador.
+Este espacio reúne la base conceptual, organizativa y metodológica que nos permite iniciar el prototipado del DCC-ACT como un bien común de la ciudad, favorece el acceso e integración de todas las personas interesadas en la convergencia de arte, ciencia y tecnología.
+
+Aquí encontrarán las recomendaciones, rutas y documentos que servirán como punto de partida para consolidar un ecosistema colaborativo e innovador.
 
 ### ¿Por qué estamos aquí?
 
@@ -26,9 +28,6 @@ Usando Discord y GitHub, cada contribución es visible, trazable y puede ser dis
 
 ### Iteración y Adaptación
 A través de Scrum trabajamos en ciclos cortos (sprints) centrados en objetivos alcanzables y revisables, permitiendo el aprendizaje continuo.
-
-### Apertura y Distribución
-Como un bien común de la ciudad, el DCC-ACT favorece el acceso e integración de todas las personas interesadas en la convergencia de arte, ciencia y tecnología.
 
 ---
 
@@ -87,8 +86,6 @@ No hay problema. En la [Guía de Contribución](inicio/guia-contribucion.md) enc
 ---
 
 ## 💡 Una reflexión final
-
-Este prototipado es un ejercicio de práctica-teoría-práctica donde aprenderemos haciendo, donde la investigación, la creación y la acción convergen en un proceso vivo. Cada uno de ustedes aporta una experiencia única que fortalece al colectivo.
 
 El DCC-ACT no es solo un proyecto: es **un territorio híbrido de inteligencia colectiva** que estamos construyendo juntos, paso a paso, sprint a sprint.
 
