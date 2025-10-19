@@ -62,17 +62,15 @@ Se busca con esta infraestructura promover la transparencia y la ética colabora
 
 ## Ciclos
 
-- **Inicio** -> 10 oct - 20 oct
-  
-- **Sprint  1** -> 21 oct - 31 oct
-- **Sprint  2**  -> 04 nov - 14 nov
-- **Sprint  3**  -> 18 nov - 28 nov
+- **Inicio** - > 28 oct
 
-- **Cierre**  ->  01 dic - 12 dic
+- **Sprint  1** -> 29 oct - 10 nov
+- **Sprint  2**  -> 11 nov - 24 nov
+- **Sprint  3**  -> 25 nov - 04 dic
+
+- **Cierre** -> 05 dic
 
 ### Inicio
-
-**Duración:** 10 oct - 20 oct
 
 **Alcance:**
 * A0.1. Creación de la organización y los repositorios en GitHub.
