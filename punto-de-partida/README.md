@@ -99,6 +99,6 @@ Revisar los [roles del equipo](inicio/roles-equipo.md) y contactar directamente 
 
 ---
 
-**¡Bienvenidos al prototipado del DCC-ACT!**
+**¡Bienvenid_s al prototipado del DCC-ACT!**
 
 Que este sea el inicio de un proceso transformador para nuestro sector y para la ciudad de Bogotá.
