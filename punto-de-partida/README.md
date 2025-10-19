@@ -54,11 +54,11 @@ El corazón del proceso. Este documento presenta:
 - **Marco de trabajo:** Scrum, Discord y GitHub como herramientas para diseñar la convergencia desde la convergencia de conocimientos
 - **Funcionalidades generales:** Gobernanza, Investigación, Desarrollo, Comunicación y Evento
 - **Esquema iterativo:** Los ciclos de trabajo (Inicio, 3 Sprints, Cierre)
-- **Cronograma:** Del 10 de octubre al 12 de diciembre
+- **Cronograma:** Del 27 de octubre al 05 de diciembre
 
 ---
 
-## 🚀 Documentos de Inicio (10 oct - 20 oct)
+## 🚀 Documentos de Inicio (27 oct)
 
 La carpeta [inicio/](inicio/) contiene los entregables de la primera fase:
 
@@ -76,7 +76,7 @@ La carpeta [inicio/](inicio/) contiene los entregables de la primera fase:
 
 1. **Revisar los documentos clave** para familiarizarse con el concepto, objetivos y marco de trabajo
 2. **Identificar su rol** en los [equipos definidos](inicio/roles-equipo.md)
-3. **Prepararse para el Sprint 1** (21 oct - 31 oct) revisando la metodología Scrum
+3. **Prepararse para el Sprint 1** (28 oct - 10 nov) revisando la metodología Scrum
 4. **Participar activamente** en los canales de comunicación (Discord) y repositorios (GitHub)
 
 ### ¿Nuevos en Scrum, Discord y GitHub?
