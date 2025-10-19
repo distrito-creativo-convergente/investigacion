@@ -87,7 +87,7 @@ No hay problema. En la [Guía de Contribución](inicio/guia-contribucion.md) enc
 
 ---
 
-## 💡 Una reflexión final
+## 💡 Una reflexión de partida
 
 El DCC-ACT no es solo un proyecto: es **un territorio híbrido de inteligencia colectiva** que estamos construyendo juntos, paso a paso, sprint a sprint.
 
