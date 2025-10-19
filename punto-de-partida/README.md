@@ -32,7 +32,18 @@ Como un bien común de la ciudad, el DCC-ACT favorece el acceso e integración d
 
 ---
 
-## 📚 Documentos Clave
+## 🚀 [Prototipo del DCC-ACT](prototipo-dcc-act.md)
+El DCC-ACT se prototipa promoviendo la transparencia y la ética colaborativa, en la cual cada contribución es visible, trazable y puede ser discutida públicamente.
+
+- **El concepto de partida:** Un territorio híbrido de inteligencia colectiva guiado por principios abiertos, distribuidos y convivenciales
+- **Marco de trabajo:** Scrum, Discord y GitHub como herramientas para diseñar la convergencia desde la convergencia de conocimientos
+- **Funcionalidades generales:** Gobernanza, Investigación, Desarrollo, Comunicación y Evento
+- **Esquema iterativo:** Los ciclos de trabajo (Inicio, 3 Sprints, Cierre)
+- **Cronograma:** Del 27 de octubre al 05 de diciembre
+
+---
+
+### Documentos base
 
 ### 1. [Resumen del Proyecto](resumen-proyecto.md)
 Aquí encontrarás la **misión, visión y objetivos** del DCC-ACT. Este documento establece nuestra aspiración de ser parte de la Red de Distritos Creativos de Bogotá para el 2030 y describe cómo trabajaremos articuladamente con la Secretaría de Cultura, Recreación y Deporte.
@@ -48,19 +59,9 @@ Un documento fundamental que recoge los consensos alcanzados en el proceso de co
 - ¿Cómo podemos aportar al fortalecimiento del sector desde lo colectivo?
 - Los pilares de nuestra articulación creativa
 
-### 3. [Prototipo del DCC-ACT](prototipo-dcc-act.md)
-El corazón del proceso. Este documento presenta:
-- **El concepto de partida:** Un territorio híbrido de inteligencia colectiva guiado por principios abiertos, distribuidos y convivenciales
-- **Marco de trabajo:** Scrum, Discord y GitHub como herramientas para diseñar la convergencia desde la convergencia de conocimientos
-- **Funcionalidades generales:** Gobernanza, Investigación, Desarrollo, Comunicación y Evento
-- **Esquema iterativo:** Los ciclos de trabajo (Inicio, 3 Sprints, Cierre)
-- **Cronograma:** Del 27 de octubre al 05 de diciembre
+### Documentos de Inicio (27 oct)
 
----
-
-## 🚀 Documentos de Inicio (27 oct)
-
-La carpeta [inicio/](inicio/) contiene los entregables de la primera fase:
+La carpeta [inicio/](inicio/) contiene los los documentos de inicio de la primera fase:
 
 - **[R0.1. Esquema de Repositorios](inicio/esquema-repositorios.md)** - Organización en GitHub (Responsable: Desarrollo e Investigación)
 - **[R0.2. Roles del Equipo](inicio/roles-equipo.md)** - Definición de equipos y roles Scrum (Responsable: Coordinadores)
@@ -74,7 +75,7 @@ La carpeta [inicio/](inicio/) contiene los entregables de la primera fase:
 
 ### Para el Grupo Gestor:
 
-1. **Revisar los documentos clave** para familiarizarse con el concepto, objetivos y marco de trabajo
+1. **Revisar los documentos base** para familiarizarse con el concepto, objetivos y marco de trabajo
 2. **Identificar su rol** en los [equipos definidos](inicio/roles-equipo.md)
 3. **Prepararse para el Sprint 1** (28 oct - 10 nov) revisando la metodología Scrum
 4. **Participar activamente** en los canales de comunicación (Discord) y repositorios (GitHub)
