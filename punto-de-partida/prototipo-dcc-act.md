@@ -14,28 +14,27 @@ Desde esta conceptualización, El DCC-ACT se configura por medio de un proceso c
 
 El DCC-ACT se activa en la ciudad por medio de un evento de lanzamiento que se realiza en tres espacios abiertos a comunidades locales y otros agentes del sector. Este es un evento híbrido (análogo-digital) que tiene como propósito «visibilizar las posibilidades creativas del DCC-ACT» (Obj3).
 
-## Funcionalidades generales
+## Funcionalidades según los objetivos
 
-### 1. Investigación
+### 1. Fundamentación
 
 * Fun1.1. Dossier del DCC-ACT
-* Fun1.2. Visibilización de perfiles DCC-ACT
 
-### 2. Gobernanza
+### 2. Cohesión
 
 * Fun2.1. Modelo de gobernanza
 
-### 3. Comunicación
+### 3. Visibilización
 
-* Fun3.1. Estrategia de comunicación
+* Fun3.1. Visibilización de perfiles DCC-ACT
+* Fun3.2. EStrategia de comunicación
+* Fun3.3. Comunicación visual y redes
 
-### 4. Desarrollo
+### 4. Producción
 
 * Fun4.1. Plataforma digital y repositorios abiertos
-
-### 5. Evento
-
-* Fun5.1. Evento de visibilización y memoria audiovisual
+* Fun4.2. Evento de visibilización
+* Fun4.3. Memoria audiovisual
 
 ## Punto de partida
 
