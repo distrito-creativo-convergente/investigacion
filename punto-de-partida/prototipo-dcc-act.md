@@ -63,9 +63,7 @@ El DCC-ACT busca articular conocimientos y prácticas diversas en procesos colab
 **Alcance:**
 * A0.1. Creación de la organización y los repositorios en GitHub.
 * A0.2. Definición de roles del equipo.
-* A0.3. Preparación de la Hoja de Ruta (v0.1).
 
 **Resultados:**
 * [R0.1.](inicio/esquema-repositorios.md) Organización y repositorios en GitHub.  -> Responsable: Desarrollo e Investigación.
 * [R0.2.](inicio/roles-equipo.md) Roles del equipo.  -> Responsable: Coordinadores.
-* [R0.3.](inicio/hoja-de-ruta.md) Hoja de ruta (v0.1). -> Responsable: Investigación.

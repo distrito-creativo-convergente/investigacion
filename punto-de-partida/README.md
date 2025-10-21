@@ -62,7 +62,6 @@ La carpeta [inicio/](inicio/) contiene los los documentos de inicio de la primer
 
 - **[R0.1. Esquema de Repositorios](inicio/esquema-repositorios.md)** - Organización en GitHub (Responsable: Desarrollo e Investigación)
 - **[R0.2. Roles del Equipo](inicio/roles-equipo.md)** - Definición de equipos y roles Scrum (Responsable: Coordinadores)
-- **[R0.3. Hoja de Ruta](inicio/hoja-de-ruta.md)** - Versión 0.1 del plan de trabajo (Responsable: Investigación)Coordinadores)
 
 ---
 
