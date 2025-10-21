@@ -2,8 +2,8 @@
 
 ## 1. Equipo de investigación
 
-* Rol1.1. Coordinación de investigación -> Juan-Pablo -> Hoja de ruta territorializada y dossier
-* Rol1.2. Apoyo investigación -> Diego H? -> documentación e integración de los perfiles culturales, creativos y de innovación de los participantes del DCC-ACT
+* Rol1.1. Coordinación de investigación -> Juan-Pablo -> Hoja de ruta situada y dossier
+* Rol1.2. Apoyo investigación -> Diego H? -> Documentación e integración de los perfiles culturales, creativos y de innovación de los participantes del DCC-ACT
 
 ## 2. Equipo de gobernanza
 
