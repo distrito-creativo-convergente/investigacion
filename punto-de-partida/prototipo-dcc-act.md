@@ -18,32 +18,24 @@ El DCC-ACT se activa en la ciudad por medio de un evento de lanzamiento que se r
 
 ### 1. Investigación
 
-* Fun1.1. Hoja de ruta
-* Fun1.2. _Nē Tā_ de conocimiento situado
-* Fun1.3. Dossier del DCC-ACT
-* Fun1.4. Documentación de perfiles DCC-ACT
+* Fun1.1. Dossier del DCC-ACT
+* Fun1.2. Documentación de perfiles DCC-ACT
 
 ### 2. Gobernanza
 
 * Fun2.1. Modelo de gobernanza
-* Fun2.2. Perspectiva de diversidad cultural
-* Fun2.3. Proyección sectorial
 
 ### 3. Comunicación
 
 * Fun3.1. Estrategia de comunicación
-* Fun3.2. Identidad visual
-* Fun3.3. Comunicación en redes
 
 ### 4. Desarrollo
 
-* Fun4.1. Plataforma digital
-* Fun4.2. Repositorios abiertos
+* Fun4.1. Plataforma digital y repositorios abiertos
 
 ### 5. Evento
 
-* Fun5.1. Evento de lanzamiento
-* Fun5.2. Memoria audiovisual
+* Fun5.1. Evento de visibilización y memoria audiovisual
 
 ## Punto de partida
 
@@ -75,13 +67,9 @@ Se busca con esta infraestructura promover la transparencia y la ética colabora
 **Alcance:**
 * A0.1. Creación de la organización y los repositorios en GitHub.
 * A0.2. Definición de roles del equipo.
-* A0.3. Creación de la guía Scrum, Discord y GitHub.
-* A0.4. Preparación de la Hoja de Ruta (v0.1).
-* A0.5. Definición del Backlog inicial.
+* A0.3. Preparación de la Hoja de Ruta (v0.1).
 
 **Resultados:**
 * [R0.1.](inicio/esquema-repositorios.md) Organización y repositorios en GitHub.  -> Responsable: Desarrollo e Investigación.
 * [R0.2.](inicio/roles-equipo.md) Roles del equipo.  -> Responsable: Coordinadores.
-* [R0.3.](inicio/guia-contribucion.md) Guía Scrum, Discord y GitHub. -> Responsable: Investigación, Desarrollo y Comunicación.
-* [R0.4.](inicio/hoja-de-ruta.md) Hoja de ruta (v0.1). -> Responsable: Investigación.
-* [R0.5.](inicio/documentacion-requisitos.md) Seguimiento en GitHub Projects del Backlog inicial.  -> Responsable: Coordinadores.
+* [R0.3.](inicio/hoja-de-ruta.md) Hoja de ruta (v0.1). -> Responsable: Investigación.
