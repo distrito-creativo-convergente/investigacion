@@ -27,7 +27,7 @@ Reconocemos la importancia de confiar en el conocimiento y experiencia de los de
 Usando Discord y GitHub, cada contribución es visible, trazable y puede ser discutida públicamente, promoviendo la ética colaborativa.
 
 ### Iteración y Adaptación
-A través de Scrum trabajamos en ciclos cortos (sprints) centrados en objetivos alcanzables y revisables, permitiendo el aprendizaje continuo.
+Trabajaremos en ciclos cortos centrados en objetivos alcanzables y revisables, permitiendo el aprendizaje continuo.
 
 ---
 
@@ -35,9 +35,7 @@ A través de Scrum trabajamos en ciclos cortos (sprints) centrados en objetivos 
 El DCC-ACT se prototipa promoviendo la transparencia y la ética colaborativa, en la cual cada contribución es visible, trazable y puede ser discutida públicamente.
 
 - **El concepto de partida:** Un territorio híbrido de inteligencia colectiva guiado por principios abiertos, distribuidos y convivenciales
-- **Marco de trabajo:** Scrum, Discord y GitHub como herramientas para diseñar la convergencia desde la convergencia de conocimientos
 - **Funcionalidades generales:** Gobernanza, Investigación, Desarrollo, Comunicación y Evento
-- **Esquema iterativo:** Los ciclos de trabajo (Inicio, 3 Sprints, Cierre)
 - **Cronograma:** Del 27 de octubre al 05 de diciembre
 
 -> Revisa el documento de punto de partida de la primera fase de [Prototipo del DCC-ACT](prototipo-dcc-act.md) para comenzar.
@@ -64,9 +62,7 @@ La carpeta [inicio/](inicio/) contiene los los documentos de inicio de la primer
 
 - **[R0.1. Esquema de Repositorios](inicio/esquema-repositorios.md)** - Organización en GitHub (Responsable: Desarrollo e Investigación)
 - **[R0.2. Roles del Equipo](inicio/roles-equipo.md)** - Definición de equipos y roles Scrum (Responsable: Coordinadores)
-- **[R0.3. Guía de Contribución](inicio/guia-contribucion.md)** - Manual Scrum, Discord y GitHub (Responsable: Investigación, Desarrollo y Comunicación)
-- **[R0.4. Hoja de Ruta](inicio/hoja-de-ruta.md)** - Versión 0.1 del plan de trabajo (Responsable: Investigación)
-- **[R0.5. Documentación de Requisitos](inicio/documentacion-requisitos.md)** - Backlog inicial en GitHub Projects (Responsable: Coordinadores)
+- **[R0.3. Hoja de Ruta](inicio/hoja-de-ruta.md)** - Versión 0.1 del plan de trabajo (Responsable: Investigación)Coordinadores)
 
 ---
 
@@ -76,24 +72,13 @@ La carpeta [inicio/](inicio/) contiene los los documentos de inicio de la primer
 
 1. **Revisar los documentos base** para familiarizarse con el concepto, objetivos y marco de trabajo
 2. **Identificar su rol** en los [equipos definidos](inicio/roles-equipo.md)
-3. **Prepararse para el Sprint 1** (28 oct - 10 nov) revisando la metodología Scrum
 4. **Participar activamente** en los canales de comunicación (Discord) y repositorios (GitHub)
-
-### ¿Nuevos en Scrum, Discord y GitHub?
-
-No hay problema. En la [Guía de Contribución](inicio/guia-contribucion.md) encontrarás recursos y tutoriales para familiarizarte con estas herramientas. La curva de aprendizaje es parte del proceso de convergencia.
 
 ---
 
 ## 💡 Una reflexión de partida
 
 El DCC-ACT no es solo un proyecto: es **un territorio híbrido de inteligencia colectiva** que estamos construyendo juntos, paso a paso, sprint a sprint.
-
----
-
-## Coordinación
-
-Revisar los [roles del equipo](inicio/roles-equipo.md) y contactar directamente a los coordinadores de cada área.
 
 ---
 
