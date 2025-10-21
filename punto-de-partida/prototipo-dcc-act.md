@@ -19,7 +19,7 @@ El DCC-ACT se activa en la ciudad por medio de un evento de lanzamiento que se r
 ### 1. Investigación
 
 * Fun1.1. Dossier del DCC-ACT
-* Fun1.2. Documentación de perfiles DCC-ACT
+* Fun1.2. Visibilización de perfiles DCC-ACT
 
 ### 2. Gobernanza
 
