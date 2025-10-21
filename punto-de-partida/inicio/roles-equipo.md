@@ -1,27 +1,27 @@
 # E0.2. Roles del equipo (borrador)
 
-## 1. Equipo de gobernanza
+## 1. Equipo de investigación
 
-* Rol1.1. Coordinación de gobernanza -> Diana -> Modelo de gobernanza —con perspectiva de diversidad cultural y género— y proyección sectorial
-* Rol1.2. Apoyo de gobernanza -> Manyulo -> Apoyo perspectiva de diversidad cultural
-* Rol1.3. Apoyo de gobernanza -> Mae -> Apoyo proyección sectorial
+* Rol1.1. Coordinación de investigación -> Juan-Pablo -> Hoja de ruta territorializada y dossier
+* Rol1.2. Apoyo investigación -> Diego H? -> documentación e integración de los perfiles culturales, creativos y de innovación de los participantes del DCC-ACT
 
-## 2. Equipo de investigación
+## 2. Equipo de gobernanza
 
-* Rol2.1. Coordinación de investigación -> Juan-Pablo -> Hoja de ruta territorializada y dossier
-* Rol2.2. Apoyo investigación -> Diego H? -> documentación e integración de los perfiles culturales, creativos y de innovación de los participantes del DCC-ACT
+* Rol2.1. Coordinación de gobernanza -> Diana -> Modelo de gobernanza —con perspectiva de diversidad cultural y género— y proyección sectorial
+* Rol2.2. Apoyo de gobernanza -> Manyulo -> Apoyo perspectiva de diversidad cultural
+* Rol2.3. Apoyo de gobernanza -> Mae -> Apoyo proyección sectorial
 
-## 3. Equipo de desarrollo
+## 3. Equipo de comunicación
 
-* Rol3.1. Líder de desarrollo -> Daniel -> Plataforma y repositorios
-* Rol3.2. Apoyo al desarrollo -> Santiago -> Apoyo al líder de desarrollo
-* Rol3.3. Desarrollador fullstack -> Diego M? -> Apoyo al líder de desarrollo
+* Rol3.1. Responsable comunicación -> Nathalie -> Estrategia de comunicación
+* Rol3.2. Diseñador gráfico -> Carlos -> Identidad visual
+* Rol3.3. Community manager -> Yimmy -> comunicación en redes
 
-## 4. Equipo de comunicación
+## 4. Equipo de desarrollo
 
-* Rol4.1. Responsable comunicación -> Nathalie -> Estrategia de comunicación
-* Rol4.2. Diseñador gráfico -> Carlos -> Identidad visual
-* Rol4.3. Community manager -> Yimmy -> comunicación en redes
+* Rol4.1. Líder de desarrollo -> Daniel -> Plataforma y repositorios
+* Rol4.2. Apoyo al desarrollo -> Santiago -> Apoyo al líder de desarrollo
+* Rol4.3. Desarrollador fullstack -> Diego M? -> Apoyo al líder de desarrollo
 
 ## 5. Equipo de evento
 
