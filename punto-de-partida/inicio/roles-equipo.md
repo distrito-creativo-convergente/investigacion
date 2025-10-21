@@ -21,8 +21,8 @@
 
 * Rol4.1. Líder de desarrollo -> Daniel -> Plataforma y repositorios
 * Rol4.2. Apoyo al desarrollo -> Santiago -> Apoyo al líder de desarrollo
-* Rol4.2. Desarrollo UX/UI -> ? -> Apoyo al líder de desarrollo
-* Rol4.3. Desarrollador fullstack -> Diego M? -> Apoyo al líder de desarrollo
+* Rol4.3. Desarrollo UX/UI -> ? -> Apoyo al líder de desarrollo
+* Rol4.4. Desarrollador fullstack -> Diego M? -> Apoyo al líder de desarrollo
 
 ## 5. Equipo de evento
 
