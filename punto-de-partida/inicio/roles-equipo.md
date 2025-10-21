@@ -25,9 +25,9 @@
 
 ## 5. Equipo de evento
 
-* Rol5.1. Productor general -> Diego V -> Evento de lanzamiento
-* Rol5.2. Productor logístico -> Franklin -> Apoyo evento de lanzamiento
-* Rol5.3. Asistente de producción -> ? -> Apoyo evento de lanzamiento
+* Rol5.1. Productor general -> Diego V -> Evento de visibilización
+* Rol5.2. Productor logístico -> Franklin -> Apoyo evento de isibilización
+* Rol5.3. Asistente de producción -> ? -> Apoyo evento de visibilización
 * Rol5.4. Curaduría de contenidos Diego F -> Programación evento
 * Rol5.5. Realización audiovisual -> Cristian -> Memoria audiovisual del evento
 
@@ -35,9 +35,3 @@
 
 * Rol6.1. Coordinación general -> John -> Informe para Proyectos en Red
 * Rol6.2. Secretaría técnica -> Aura -> Informe administración de recursos económicos
-
-## 7. Roles Scrum
-
-* Rol7.1. Development Team -> Equipos de gobernanza, investigación, desarrollo, comunicación y evento
-* Rol7.2 Scrum Master -> John
-* Rol7.3 Product Owner -> Juan-Pablo
