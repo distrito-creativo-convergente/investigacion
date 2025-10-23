@@ -36,7 +36,7 @@ El DCC-ACT se prototipa promoviendo la transparencia y la ética colaborativa, e
 
 - **El concepto de partida:** Un territorio híbrido de inteligencia colectiva guiado por principios abiertos, distribuidos y convivenciales
 - **Funcionalidades generales:** Gobernanza, Investigación, Desarrollo, Comunicación y Evento
-- **Cronograma:** Del 27 de octubre al 05 de diciembre
+- **Cronograma:** Del 28 de octubre al 05 de diciembre
 
 -> Revisa el documento de punto de partida de la primera fase de [Prototipo del DCC-ACT](prototipo-dcc-act.md) para comenzar.
 

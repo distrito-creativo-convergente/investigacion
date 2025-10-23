@@ -49,9 +49,9 @@ El DCC-ACT busca articular conocimientos y prácticas diversas en procesos colab
 
 ## Ciclos primera fase
 
-- **Inicio** - > 27 oct
+- **Inicio** - > 28 oct
 
-- **Ciclo  1** -> 28 oct - 10 nov
+- **Ciclo  1** -> 29 oct - 10 nov
 - **Ciclo  2**  -> 11 nov - 24 nov
 - **Ciclo  3**  -> 25 nov - 04 dic
 
