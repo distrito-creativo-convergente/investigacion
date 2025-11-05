@@ -51,10 +51,10 @@ El DCC-ACT busca articular conocimientos y prácticas diversas en procesos colab
 - **Inicio** - > 28 oct
 
 - **Ciclo  1** -> 29 oct - 10 nov
-- **Ciclo  2**  -> 11 nov - 24 nov
-- **Ciclo  3**  -> 25 nov - 04 dic
+- **Ciclo  2**  -> 11 nov - 19 nov
+- **Ciclo  3**  -> 20 nov - 28 nov
 
-- **Cierre** -> 05 dic
+- **Cierre** -> 03 dic
 
 ### Inicio
 
