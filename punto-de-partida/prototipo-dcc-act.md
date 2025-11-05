@@ -26,8 +26,7 @@ El DCC-ACT se activa en la ciudad por medio de un evento de lanzamiento que se r
 
 ### 3. Visibilización
 
-* Fun3.1. Visibilización de perfiles DCC-ACT
-* Fun3.2. Estrategia de comunicación
+* Fun3.1. Estrategia de comunicación
 * Fun3.3. Comunicación visual y redes
 
 ### 4. Producción
