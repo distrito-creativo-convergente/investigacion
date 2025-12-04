@@ -46,16 +46,6 @@ El DCC-ACT busca articular conocimientos y prácticas diversas en procesos colab
 ## Esquema iterativo
 ![Esquema-iterativo](Esquema-iterativo.png "Esquema-iterativo")
 
-## Ciclos primera fase
-
-- **Inicio** - > 28 oct
-
-- **Ciclo  1** -> 29 oct - 10 nov
-- **Ciclo  2**  -> 11 nov - 19 nov
-- **Ciclo  3**  -> 20 nov - 28 nov
-
-- **Cierre** -> 03 dic
-
 ### Inicio
 
 **Alcance:**
